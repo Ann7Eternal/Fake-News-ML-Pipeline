@@ -1,4 +1,5 @@
 # End-to-End ML Pipeline & Model Monitoring
+**[🟢 Live Demo: Click Here to Test the Application](https://fake-news-ml-pipeline-csfse3fng8hbaev2uh6chs.streamlit.app/)**
 
 **Author:** Yashaswi Harsh | B.Tech, DIT University
 
